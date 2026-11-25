@@ -17,8 +17,8 @@ This repository contains the independent reproduction and empirical analysis of 
   * **Original Author GitHub & Data:** [clguo/SA-UNet](https://github.com/clguo/SA-UNet)
 * **Course:** Machine Learning
 * **Authors & Team Contribution:**
-  * **Rohita** (Team Member 1) — *50% Contribution*
-  * **Samora** (Team Member 2) — *50% Contribution*
+  * **Rohita** (Team Member 1)
+  * **Samora** (Team Member 2) 
 
 ---
 
