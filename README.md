@@ -8,7 +8,7 @@
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 
 This repository contains the independent reproduction and empirical analysis of **SA-UNet (Spatial Attention U-Net)** for retinal vessel segmentation on the benchmark **DRIVE (Digital Retinal Images for Vessel Extraction)** dataset, developed for the **Machine Learning** course.
 
@@ -22,7 +22,7 @@ This repository contains the independent reproduction and empirical analysis of 
 
 ---
 
-## 📂 Repository Structure
+## Repository Structure
 
 ```text
 ├── README.md                                          # Reproduction guide, dependencies, and execution instructions
@@ -32,7 +32,7 @@ This repository contains the independent reproduction and empirical analysis of 
 
 ---
 
-## 🛠️ Environment Setup & Installing Dependencies
+## Environment Setup and Installing Dependencies
 
 ### 1. Prerequisites
 * **Python:** $\ge 3.8$ (Python 3.10 or 3.11 recommended)
@@ -75,7 +75,7 @@ pip install numpy matplotlib opencv-python pillow scikit-image scikit-learn albu
 
 ---
 
-## 📊 Dataset Preparation (DRIVE)
+## Dataset Preparation (DRIVE)
 
 The **DRIVE** dataset contains 40 color fundus photography images ($584 \times 565$ pixels), divided into 20 training images and 20 test images.
 
@@ -103,7 +103,7 @@ The **DRIVE** dataset contains 40 color fundus photography images ($584 \times 5
 
 ---
 
-## 🚀 Running the Code
+## Running the Code
 
 ### Option A: Running on Google Colab (Recommended)
 1. Open [Google Colab](https://colab.research.google.com/).
@@ -128,7 +128,7 @@ jupyter notebook "SA_UNet_Retinal_Vessel_Segmentation(drive).ipynb"
 
 ---
 
-## 📈 Quantitative Reproduction Results
+## Quantitative Reproduction Results
 
 Our reproduced implementation on the DRIVE benchmark validates the findings published by Guo et al. (ICPR 2020):
 
@@ -146,7 +146,7 @@ Our reproduced implementation on the DRIVE benchmark validates the findings publ
 
 ---
 
-## 📖 Citation
+## Citation
 
 If you use this reproduction codebase or report, please cite the original ICPR 2020 paper:
 
